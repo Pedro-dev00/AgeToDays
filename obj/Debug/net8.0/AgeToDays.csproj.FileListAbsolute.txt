@@ -1,0 +1,14 @@
+/home/pedro/AgeToDays/bin/Debug/net8.0/AgeToDays
+/home/pedro/AgeToDays/bin/Debug/net8.0/AgeToDays.deps.json
+/home/pedro/AgeToDays/bin/Debug/net8.0/AgeToDays.runtimeconfig.json
+/home/pedro/AgeToDays/bin/Debug/net8.0/AgeToDays.dll
+/home/pedro/AgeToDays/bin/Debug/net8.0/AgeToDays.pdb
+/home/pedro/AgeToDays/obj/Debug/net8.0/AgeToDays.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/AgeToDays/obj/Debug/net8.0/AgeToDays.AssemblyInfoInputs.cache
+/home/pedro/AgeToDays/obj/Debug/net8.0/AgeToDays.AssemblyInfo.cs
+/home/pedro/AgeToDays/obj/Debug/net8.0/AgeToDays.csproj.CoreCompileInputs.cache
+/home/pedro/AgeToDays/obj/Debug/net8.0/AgeToDays.dll
+/home/pedro/AgeToDays/obj/Debug/net8.0/refint/AgeToDays.dll
+/home/pedro/AgeToDays/obj/Debug/net8.0/AgeToDays.pdb
+/home/pedro/AgeToDays/obj/Debug/net8.0/AgeToDays.genruntimeconfig.cache
+/home/pedro/AgeToDays/obj/Debug/net8.0/ref/AgeToDays.dll
